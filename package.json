@@ -11,7 +11,6 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.2.2",
     "morgan": "^1.10.0",
-    "multer-gridfs-storage": "^5.0.2",
     "nodemon": "^2.0.22",
     "react-router-dom": "^6.11.2"
   },
